@@ -25,11 +25,11 @@ Matplotlib, Seaborn
 
 VS Code
 
-simple-eda-project/
-│── data/                 # Sample dataset (CSV/Excel)
-│── eda_notebook.ipynb    # Main EDA notebook
-│── requirements.txt      # Dependencies
-│── README.md             # Project documentation
+simple-eda-project/                
+│── data/                 # Sample dataset (CSV/Excel)                             
+│── eda_notebook.ipynb    # Main EDA notebook                
+│── requirements.txt      # Dependencies                
+│── README.md             # Project documentation               
 
 📊 Example Output
 
